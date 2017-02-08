@@ -13,6 +13,16 @@
                 </li></a>
             </ul>
         </li>
+        <li id="menu3"><span class="menuList mouse">User</span>
+        	<ul>
+            	<a href="member.php"><li>
+                	Member
+                </li></a>
+                <a href="administrator.php"><li>
+                	Administrator
+                </li></a>
+            </ul>
+        </li>
   
         <li id="menu4">
         	<a href="logout.php"><span class="menuList">Logout</span></a>

@@ -61,7 +61,7 @@
                                 :
                             </td>
                             <td>
-                                <input type="password" name="username"/>
+                                <input type="password" name="password"/>
                             </td>
                         </tr>
                         <tr>
